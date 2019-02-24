@@ -1,0 +1,11 @@
+{
+  "name": "code-kata",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/199911/code-kata.git",
+  "author": "Ku Lok Sun <sundaykuloksun@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^24.1.0"
+  }
+}
